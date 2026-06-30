@@ -1,0 +1,10 @@
+opencv-python
+numpy
+pandas
+pytesseract
+easyocr
+matplotlib
+jupyter
+nbformat
+ipykernel
+nbstripout
