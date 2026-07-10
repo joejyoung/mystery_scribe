@@ -5,4 +5,4 @@ data/raw/*
 data/processed/*.csv
 ~/.EasyOCR/ 
 .ipynb_checkpoints
-
+*.db
