@@ -44,7 +44,7 @@ Tesseract is a system binary (not a pip package) — install it separately:
 commits, keeping diffs clean and the repo small:
 
 ```bash
-nbstripout --install
+nbstripout --install --attributes .gitattributes
 ```
 
 This registers a git filter using the committed `.gitattributes`. Without it,
